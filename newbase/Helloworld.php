@@ -1,8 +1,8 @@
 <?php
-$name = array();
+$namex = array();
 
-$name[0] = '1';
+$namex[0] = '1';
 
-$name[1] = '2';
-$name[2] = '3';
+$namex[1] = '2';
+241525
 ?>
