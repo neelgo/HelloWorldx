@@ -2,6 +2,7 @@
 <?php
 $test='tbbdfdsfdsfd';
 //rrrrrrafter my pullcvbcvbvc
+$test='apc_fetch(key)';
 ?>
 =======
 
