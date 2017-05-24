@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 <?php
-$test='tbbd';
+$test='tbbdfdsfdsfd';
+//rrrrrrafter my pull
 ?>
+=======
+
+
+
+
+Meri line h ye
+
+
+
+
+>>>>>>> origin/master
