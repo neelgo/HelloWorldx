@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+<?php
+$test='tbbdfdsfdsfd';
+//rrrrrrafter my pull
+?>
+=======
 
 
 
@@ -8,3 +14,4 @@ after his pull
 
 
 
+>>>>>>> origin/master
