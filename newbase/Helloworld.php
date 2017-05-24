@@ -1,7 +1,7 @@
 <?php
-$name = array();
+$namex = array();
 
-$name[0] = '1';
+$namex[0] = '1';
 
-$name[1] = '2';
+$namex[1] = '2';
 ?>
